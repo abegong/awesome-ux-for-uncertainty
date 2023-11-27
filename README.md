@@ -10,7 +10,7 @@ In this pattern, an algorithm makes a decision, which the user can audit and cha
 * Gmail spam filtering
 
 ### Confirmation
-Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Aliquet risus feugiat in ante metus. Est ante in nibh mauris cursus mattis molestie a. Purus in mollis nunc sed id semper risus in. Arcu ac tortor dignissim convallis aenean. Scelerisque felis imperdiet proin fermentum. Etiam non quam lacus suspendisse. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet consectetur. Risus pretium quam vulputate dignissim. Eu scelerisque felis imperdiet proin fermentum. Nisi lacus sed viverra tellus in hac. Leo duis ut diam quam nulla porttitor massa.
+In this pattern, an algorithm makes a decision, which the user must review and confirm. This is decide-and-confirm step is often one step in a multi-step workflow.
 
 * Gmail responses
 * Apple text swipe interface
@@ -18,8 +18,7 @@ Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien
 ### Autocomplete text suggestions
 Velit laoreet id donec ultrices tincidunt arcu non sodales. Molestie nunc non blandit massa enim nec. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Arcu ac tortor dignissim convallis aenean. Sed euismod nisi porta lorem mollis aliquam. Amet venenatis urna cursus eget nunc. In dictum non consectetur a. Tempor orci dapibus ultrices in iaculis. Suspendisse sed nisi lacus sed viverra. Curabitur vitae nunc sed velit dignissim. Porttitor leo a diam sollicitudin tempor id. Tortor at auctor urna nunc id cursus metus aliquam eleifend. Eget nullam non nisi est sit amet. Quam id leo in vitae turpis massa sed.
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="320"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="320"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="320">
-
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240">
 
 * Gmail text completion
 * Github copilot
@@ -27,7 +26,7 @@ Velit laoreet id donec ultrices tincidunt arcu non sodales. Molestie nunc non bl
 ### Regenerate, with options
 Sit amet commodo nulla facilisi. Laoreet non curabitur gravida arcu ac tortor dignissim. Urna duis convallis convallis tellus id interdum velit laoreet id. Nisl condimentum id venenatis a condimentum. Posuere lorem ipsum dolor sit amet consectetur adipiscing. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Est lorem ipsum dolor sit amet consectetur.
 
-<img src="https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif" width="320">
+<img src="https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif" width="240">
 
 * tome.app
 * notion.ai (???)
@@ -41,7 +40,7 @@ Convallis tellus id interdum velit laoreet id donec ultrices tincidunt. Mi proin
   Midjourney
 
 ### Select-among-many
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse interdum consectetur libero id faucibus nisl. Integer quis auctor elit sed vulputate mi sit amet. Sit amet commodo nulla facilisi. Laoreet non curabitur gravida arcu ac tortor dignissim. Urna duis convallis convallis tellus id interdum velit laoreet id. Nisl condimentum id venenatis a condimentum. Posuere lorem ipsum dolor sit amet consectetur adipiscing. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Est lorem ipsum dolor sit amet consectetur.
+In this pattern, the user is presented with many options and asked to select among them. Often, The user is picking a signle item, although multiple select UIs also exist. In some cases, the user might not make any choice at all. In this pattern, the algorithm's job is essentially to rank a large set of options, based on how appealing they're likely to be to the user.
 
 * Amazon: Top Picks for You
 * Netflix: Recommended movies within rows
@@ -59,3 +58,14 @@ Convallis tellus id interdum velit laoreet id donec ultrices tincidunt. Mi proin
 
 ### Free text chat
 * ChatGPT
+
+-----
+
+## Blog posts
+* https://medium.com/@rachel_d_ai/how-to-successfully-productise-ai-and-realise-its-full-potential-f18e08386370
+* https://www.linkedin.com/pulse/four-ui-design-guidelines-creating-machine-learning-liikkanen/
+
+
+## Presentations
+* https://www.youtube.com/watch?v=zqUi3p-o8wU&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F&index=43
+* 
