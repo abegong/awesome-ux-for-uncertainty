@@ -25,7 +25,7 @@ With the confirmation pattern, an algorithm makes a decision, which the user mus
 ### Autocomplete text suggestions
 Autocomplete text suggestions provide the user with presumed text that the algorithm thinks will best complete the user’s sentence as it is typed.  The user is in full control over the function and may choose to ignore the algorithm’s suggestions or continue to type a particular suggestion in full.
 
-<img src="https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s1600/image2.gif" width="240"> <img src="https://rubenr.dev/_ipx/w_850/img/content/github-copilot-copilot-example.gif" width="240"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240">
+<img src="https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s1600/image2.gif" width="400"> <img src="https://rubenr.dev/_ipx/w_850/img/content/github-copilot-copilot-example.gif" width="400">
 
 * Gmail text completion [gif](https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s1600/image2.gif)
 * Github copilot [gif](https://rubenr.dev/_ipx/w_850/img/content/github-copilot-copilot-example.gif)
@@ -33,7 +33,7 @@ Autocomplete text suggestions provide the user with presumed text that the algor
 ### Regenerate, with options
 In this pattern, algorithms ask the user to submit some form of media (ie: text or photo).  The job of the algorithm is to take that media and convert it into something different and new, such as turning basic text into a presentation, editing a photo, etc.  The user can accept, edit, or decline the proposed changes and maintains full control throughout the process.  They can also use the algorithm for all of the work or just as a launching point.
 
-<img src="https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif" width="240">
+<img src="..." width="400">
 
 * tome.app
 * notion.ai (???)
@@ -41,6 +41,8 @@ In this pattern, algorithms ask the user to submit some form of media (ie: text 
 
 ### Choose from one of a few
 In this pattern, the user is presented with ideas or suggestions to help build a more personalized experience.  Typically the user picks at least one option, but may opt for more or none at all.  The algorithm’s job is to provide the user with a variety of possibilities to improve their experience, and the user has the flexibility to make changes to their initial selection throughout the entire process.
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240">
 
 * Pinterest: Find some ideas
 * Powerpoint: Slide ideas
