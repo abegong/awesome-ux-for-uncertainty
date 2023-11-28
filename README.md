@@ -33,7 +33,7 @@ Autocomplete text suggestions provide the user with presumed text that the algor
 ### Regenerate, with options
 In this pattern, algorithms ask the user to submit some form of media (ie: text or photo).  The job of the algorithm is to take that media and convert it into something different and new, such as turning basic text into a presentation, editing a photo, etc.  The user can accept, edit, or decline the proposed changes and maintains full control throughout the process.  They can also use the algorithm for all of the work or just as a launching point.
 
-<img src="..." width="400">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400">
 
 * tome.app
 * notion.ai (???)
@@ -42,7 +42,7 @@ In this pattern, algorithms ask the user to submit some form of media (ie: text 
 ### Choose from one of a few
 In this pattern, the user is presented with ideas or suggestions to help build a more personalized experience.  Typically the user picks at least one option, but may opt for more or none at all.  The algorithm’s job is to provide the user with a variety of possibilities to improve their experience, and the user has the flexibility to make changes to their initial selection throughout the entire process.
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400">
 
 * Pinterest: Find some ideas
 * Powerpoint: Slide ideas
