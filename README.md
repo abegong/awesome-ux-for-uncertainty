@@ -25,10 +25,10 @@ With the confirmation pattern, an algorithm makes a decision, which the user mus
 ### Autocomplete text suggestions
 Autocomplete text suggestions provide the user with presumed text that the algorithm thinks will best complete the user’s sentence as it is typed.  The user is in full control over the function and may choose to ignore the algorithm’s suggestions or continue to type a particular suggestion in full.
 
-<img src="https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s1600/image2.gif" width="240"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240">
+<img src="https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s1600/image2.gif" width="240"> <img src="https://rubenr.dev/_ipx/w_850/img/content/github-copilot-copilot-example.gif" width="240"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240">
 
 * Gmail text completion [gif](https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s1600/image2.gif)
-* Github copilot
+* Github copilot [gif](https://rubenr.dev/_ipx/w_850/img/content/github-copilot-copilot-example.gif)
 
 ### Regenerate, with options
 In this pattern, algorithms ask the user to submit some form of media (ie: text or photo).  The job of the algorithm is to take that media and convert it into something different and new, such as turning basic text into a presentation, editing a photo, etc.  The user can accept, edit, or decline the proposed changes and maintains full control throughout the process.  They can also use the algorithm for all of the work or just as a launching point.
