@@ -14,7 +14,9 @@ Putting a talk in Nov 2023, I was surprised that nothing quite like awesome-ux-f
 ### Reversible decision
 Here, an algorithm makes a decision, which the user can audit and change if they choose.  The algorithm's job is to interpret what the user may want to see and what they may want to ignore based on pre-existing standards and filter options presented to the user.
 
-* Gmail spam filtering
+<img src="https://www.dangerouscommonsense.com/wp-content/uploads/2012/10/gmail-spam-fighting.jpg" width="400">
+
+* Gmail spam filtering [image](https://www.dangerouscommonsense.com/wp-content/uploads/2012/10/gmail-spam-fighting.jpg)
 
 ### Confirmation
 With the confirmation pattern, an algorithm makes a decision, which the user must review and confirm. However, the user may opt to not confirm or accept the decision at all.  This decide-and-confirm step is often one step in a multi-step workflow.
