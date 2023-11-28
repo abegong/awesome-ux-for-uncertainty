@@ -5,18 +5,18 @@ Links and resources about UX patterns for applications the involve prediction/un
 ## UX Patterns
 
 ### Reversible decision
-In this pattern, an algorithm makes a decision, which the user can audit and change if they choose.
+Here, an algorithm makes a decision, which the user can audit and change if they choose.  The algorithm's job is to interpret what the user may want to see and what they may want to ignore based on pre-existing standards and filter options presented to the user.
 
 * Gmail spam filtering
 
 ### Confirmation
-In this pattern, an algorithm makes a decision, which the user must review and confirm. This is decide-and-confirm step is often one step in a multi-step workflow.
+With the confirmation pattern, an algorithm makes a decision, which the user must review and confirm. However, the user may opt to not confirm or accept the decision at all.  This decide-and-confirm step is often one step in a multi-step workflow.
 
 * Gmail responses
 * Apple text swipe interface
 
 ### Autocomplete text suggestions
-Velit laoreet id donec ultrices tincidunt arcu non sodales. Molestie nunc non blandit massa enim nec. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Arcu ac tortor dignissim convallis aenean. Sed euismod nisi porta lorem mollis aliquam. Amet venenatis urna cursus eget nunc. In dictum non consectetur a. Tempor orci dapibus ultrices in iaculis. Suspendisse sed nisi lacus sed viverra. Curabitur vitae nunc sed velit dignissim. Porttitor leo a diam sollicitudin tempor id. Tortor at auctor urna nunc id cursus metus aliquam eleifend. Eget nullam non nisi est sit amet. Quam id leo in vitae turpis massa sed.
+Autocomplete text suggestions provide the user with presumed text that the algorithm thinks will best complete the user’s sentence as it is typed.  The user is in full control over the function and may choose to ignore the algorithm’s suggestions or continue to type a particular suggestion in full.
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="240">
 
@@ -24,7 +24,7 @@ Velit laoreet id donec ultrices tincidunt arcu non sodales. Molestie nunc non bl
 * Github copilot
 
 ### Regenerate, with options
-Sit amet commodo nulla facilisi. Laoreet non curabitur gravida arcu ac tortor dignissim. Urna duis convallis convallis tellus id interdum velit laoreet id. Nisl condimentum id venenatis a condimentum. Posuere lorem ipsum dolor sit amet consectetur adipiscing. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Est lorem ipsum dolor sit amet consectetur.
+In this pattern, algorithms ask the user to submit some form of media (ie: text or photo).  The job of the algorithm is to take that media and convert it into something different and new, such as turning basic text into a presentation, editing a photo, etc.  The user can accept, edit, or decline the proposed changes and maintains full control throughout the process.  They can also use the algorithm for all of the work or just as a launching point.
 
 <img src="https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif" width="240">
 
@@ -33,14 +33,14 @@ Sit amet commodo nulla facilisi. Laoreet non curabitur gravida arcu ac tortor di
 * Photoshop generative fill [gif](https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif)
 
 ### Choose from one of a few
-Convallis tellus id interdum velit laoreet id donec ultrices tincidunt. Mi proin sed libero enim sed faucibus turpis. Cursus metus aliquam eleifend mi. Turpis in eu mi bibendum. Id velit ut tortor pretium viverra suspendisse potenti. Integer feugiat scelerisque varius morbi enim. Amet luctus venenatis lectus magna fringilla urna. Laoreet suspendisse interdum consectetur libero id faucibus. Laoreet non curabitur gravida arcu ac tortor dignissim convallis. In hendrerit gravida rutrum quisque non tellus orci ac.
+In this pattern, the user is presented with ideas or suggestions to help build a more personalized experience.  Typically the user picks at least one option, but may opt for more or none at all.  The algorithm’s job is to provide the user with a variety of possibilities to improve their experience, and the user has the flexibility to make changes to their initial selection throughout the entire process.
 
 * Pinterest: Find some ideas
 * Powerpoint: Slide ideas
   Midjourney
 
 ### Select-among-many
-In this pattern, the user is presented with many options and asked to select among them. Often, The user is picking a signle item, although multiple select UIs also exist. In some cases, the user might not make any choice at all. In this pattern, the algorithm's job is essentially to rank a large set of options, based on how appealing they're likely to be to the user.
+In this pattern, the user is presented with many options and asked to select among them. Often, The user is picking a single item, although multiple select UIs also exist. In some cases, the user might not make any choice at all. The algorithm's job is essentially to rank a large set of options, based on how appealing they're likely to be to the user.
 
 * Amazon: Top Picks for You
 * Netflix: Recommended movies within rows
@@ -49,7 +49,7 @@ In this pattern, the user is presented with many options and asked to select amo
 
 
 ### Algorithmic feeds
-Convallis tellus id interdum velit laoreet id donec ultrices tincidunt. Mi proin sed libero enim sed faucibus turpis. Cursus metus aliquam eleifend mi. Turpis in eu mi bibendum. Id velit ut tortor pretium viverra suspendisse potenti. Integer feugiat scelerisque varius morbi enim. Amet luctus venenatis lectus magna fringilla urna. Laoreet suspendisse interdum consectetur libero id faucibus. Laoreet non curabitur gravida arcu ac tortor dignissim convallis. In hendrerit gravida rutrum quisque non tellus orci ac.
+Algorithmic feeds provide initial generic options for the user.  They then quietly track usage and build a UX based on what the algorithm thinks the user will want to see and the order in which they will want to see it.  Frequency and volume is determined by the user’s actions.
 
 * Facebook newsfeed
 * Twitter “For You”
@@ -57,7 +57,16 @@ Convallis tellus id interdum velit laoreet id donec ultrices tincidunt. Mi proin
 * Bluesky
 
 ### Free text chat
+Natural language chat asks the user to input written or spoken language in the form of a command or question.  The job of the algorithm is to take that prompt and provide an output or reply using the internet and/or other databases.  The algorithm can also personalize responses based on user input.  Users can then opt to ask follow-up questions, not reply at all, or ask entirely new questions and repeat the sequence.
+
 * ChatGPT
+
+### Irreversible decisions
+Tangential to the select-among-many pattern, irreversible decisions are where the user is presented with a series of preset categories and asked to make a selection from within those categories. The algorithm's job is essentially to populate preset categories with a large set of ranked options. The user may review the options presented and make any number of choices but lacks the ability to change or influence the overall categories provided by the algorithm.
+
+### Wake words
+Similar to natural language chat, wake words asks the user to input written or spoken language in the form of a command or question using a specific trigger word or phrase (ie: wake word) to initiate the sequence.  The job of the algorithm is to engage once the wake word has been typed or spoken and captured into the microphone.   The algorithm cannot customize wake words but can customize responses based on user input.  To initiate the sequence again, the wake words must be spoken each time.
+
 
 -----
 
