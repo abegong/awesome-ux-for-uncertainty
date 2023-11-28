@@ -1,5 +1,12 @@
 # awesome-ux-for-uncertainty
-Links and resources about UX patterns for applications the involve prediction/uncertainty/"guessing"/etc.
+...is a repo of links and resources about UX patterns for applications the involve prediction/uncertainty/"guessing"/etc.
+
+UI patterns for uncertainty have been an important niche topic ever since we started building apps that surface data and predictions from algorithms.
+
+With all the new capabilities of generative AI, this area of UX is due for reimagination.
+
+Putting a talk in Nov 2023, I was surprised that nothing quite like awesome-ux-for-uncertainty existed. I hope it’ll be a useful place for data and UX people to collaborate.
+
 
 
 ## UX Patterns
