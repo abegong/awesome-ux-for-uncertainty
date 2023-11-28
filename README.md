@@ -21,7 +21,10 @@ Here, an algorithm makes a decision, which the user can audit and change if they
 ### Confirmation
 With the confirmation pattern, an algorithm makes a decision, which the user must review and confirm. However, the user may opt to not confirm or accept the decision at all.  This decide-and-confirm step is often one step in a multi-step workflow.
 
-* Gmail responses
+<img src="https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png" width="400">
+<img src="https://media3.giphy.com/media/26mkhMYkitO7DoJuU/giphy.gif" width="400">
+
+* Gmail responses [image](https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png)
 * Apple text swipe interface
 
 ### Autocomplete text suggestions
