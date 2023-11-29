@@ -102,6 +102,11 @@ Tangential to the select-among-many pattern, irreversible decisions are where th
 ### Wake words
 Similar to natural language chat, wake words asks the user to input written or spoken language in the form of a command or question using a specific trigger word or phrase (ie: wake word) to initiate the sequence.  The job of the algorithm is to engage once the wake word has been typed or spoken and captured into the microphone.   The algorithm cannot customize wake words but can customize responses based on user input.  To initiate the sequence again, the wake words must be spoken each time.
 
+<img src="https://media.tenor.com/oqH_E3R9gD4AAAAC/siri-apple.gif" width="400">
+<img src="https://rapidapi.com/blog/wp-content/uploads/2016/10/alexa-gif.gif" width="400">
+
+* Siri [gif](https://media.tenor.com/oqH_E3R9gD4AAAAC/siri-apple.gif)
+* Alexa [gif](https://rapidapi.com/blog/wp-content/uploads/2016/10/alexa-gif.gif)
 
 -----
 
