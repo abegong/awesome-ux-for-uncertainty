@@ -25,20 +25,20 @@ Huge thanks for @drmann86 for his help pulling resources from the talk over into
 
 
 ## Blog posts
-* [How to successfully productise ai and realise its full potential](https://medium.com/@rachel_d_ai/how-to-successfully-productise-ai-and-realise-its-full-potential-f18e08386370), Rachel Dulberg
 * [Four UI design guidelines for creating machine learning applications](https://www.linkedin.com/pulse/four-ui-design-guidelines-creating-machine-learning-liikkanen/), Lassi A. Liikkanen
+* [How to successfully productise ai and realise its full potential](https://medium.com/@rachel_d_ai/how-to-successfully-productise-ai-and-realise-its-full-potential-f18e08386370), Rachel Dulberg
 
 
 ## Presentations
-* [Designing with AI: building the flagship GPT-4 language product at Duolingo](https://www.youtube.com/watch?v=zqUi3p-o8wU&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F&index=43), Edwin Bodge and Megan Bednarczyk, Config 2023
 * [Climbing the ladder of abstraction](https://www.youtube.com/watch?v=qw4PrtyvJI0&t=3355s), Amelia Wattenberger, AI Engineer Summit 2023
+* [Designing with AI: building the flagship GPT-4 language product at Duolingo](https://www.youtube.com/watch?v=zqUi3p-o8wU&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F&index=43), Edwin Bodge and Megan Bednarczyk, Config 2023
 
 ## Books
 
-* [Don’t make me think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/), Steve Krug
-* [Microinteractions](https://www.amazon.com/Microinteractions-Full-Color-Designing-Details/dp/1491945923/), Dan Saffer and Don Norman
 * [Designing for behavior change](https://www.amazon.com/Designing-Behavior-Change-Psychology-Behavioral/dp/1492056030), Stephen Wendel
+* [Don’t make me think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/), Steve Krug
 * [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/0241184835), Nir Eyal
+* [Microinteractions](https://www.amazon.com/Microinteractions-Full-Color-Designing-Details/dp/1491945923/), Dan Saffer and Don Norman
 
 
 ## UX Patterns
