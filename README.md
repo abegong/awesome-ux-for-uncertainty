@@ -13,6 +13,8 @@ As of Nov 2023, this repo is the single best resource on this subject that I kno
 * If you'd like to add a whole new section, please create an issue and we can discuss it there.
 * If you have other questions, comments, ideas, or just want to compare notes on this subject, you can reach me in the smoking remains of twitter at [@abegong](https://twitter.com/abegong). DMs open.
 
+Huge thanks for @drmann86 for his help pulling resources from the talk over into this repo.
+
 ## Table of contents
 
 * Blog posts
