@@ -99,7 +99,7 @@ Similar to natural language chat, wake words asks the user to input written or s
 -----
 
 ## Blog posts
-* https://medium.com/@rachel_d_ai/how-to-successfully-productise-ai-and-realise-its-full-potential-f18e08386370
+* [how to successfully productise ai and realise its full potential](https://medium.com/@rachel_d_ai/how-to-successfully-productise-ai-and-realise-its-full-potential-f18e08386370)
 * [four UI design guidelines for creating machine learning applications](https://www.linkedin.com/pulse/four-ui-design-guidelines-creating-machine-learning-liikkanen/)
 
 
