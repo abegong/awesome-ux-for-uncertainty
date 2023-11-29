@@ -23,8 +23,15 @@ With the confirmation pattern, an algorithm makes a decision, which the user mus
 
 <img src="https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png" width="400">
 <img src="https://media3.giphy.com/media/26mkhMYkitO7DoJuU/giphy.gif" width="400">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPeBSWmQ6vwJdqUIgb8mzIgBa29ZvguHjNXnsceuer_-dwrXo" width="400">
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVZYfbTg8wfy6y_foFM-FlBpQeH1SEHlLl9zvEkrPDF1y3M3sr" width="400">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vUFlsyp3qYW9RZ0oVzY7Ml_i6aZCA6NYwRmQL0Gv-dXxoTse" width="400">
 
 * Gmail responses [image](https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png)
+* Verification questions [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPeBSWmQ6vwJdqUIgb8mzIgBa29ZvguHjNXnsceuer_-dwrXo)
+* Tinder [gif](media3.giphy.com/media/26mkhMYkitO7DoJuU/giphy.gif)
+* Tinder [image](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVZYfbTg8wfy6y_foFM-FlBpQeH1SEHlLl9zvEkrPDF1y3M3sr)
+* Photo ID [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vUFlsyp3qYW9RZ0oVzY7Ml_i6aZCA6NYwRmQL0Gv-dXxoTse)
 * Apple text swipe interface
 
 ### Autocomplete text suggestions
