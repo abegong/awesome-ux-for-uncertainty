@@ -30,8 +30,8 @@ Huge thanks for @drmann86 for his help pulling resources from the talk over into
 
 
 ## Presentations
-* https://www.youtube.com/watch?v=zqUi3p-o8wU&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F&index=43
-* https://www.youtube.com/watch?v=qw4PrtyvJI0&t=3567s
+* [Designing with AI: building the flagship GPT-4 language product at Duolingo](https://www.youtube.com/watch?v=zqUi3p-o8wU&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F&index=43), Edwin Bodge and Megan Bednarczyk, Config 2023
+* [Climbing the ladder of abstraction](https://www.youtube.com/watch?v=qw4PrtyvJI0&t=3355s), Amelia Wattenberger, AI Engineer Summit 2023
 
 ## Books
 
