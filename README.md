@@ -47,9 +47,9 @@ In this pattern, algorithms ask the user to submit some form of media (ie: text 
 ### Choose from one of a few
 In this pattern, the user is presented with ideas or suggestions to help build a more personalized experience.  Typically the user picks at least one option, but may opt for more or none at all.  The algorithm’s job is to provide the user with a variety of possibilities to improve their experience, and the user has the flexibility to make changes to their initial selection throughout the entire process.
 
-<img src="https://newsroom-archive.pinterest.com/static/images/creators-following_stream-us-sm40c9.gif?ixlib=php-3.3.1&s=b71db1c28c0078681471c9da9dafb524" width="400">
+<img src="https://assets-global.website-files.com/63769718a5796097e763daed/63fc9e80d3a5afa59e348f18_PLANOLY%2520-%2520Story%2520Pins%2520-%2520Blog%2520Post%2520-%2520GIF%25201.gif" width="400">
 
-* Pinterest: Find some ideas [gif](https://newsroom-archive.pinterest.com/static/images/creators-following_stream-us-sm40c9.gif?ixlib=php-3.3.1&s=b71db1c28c0078681471c9da9dafb524)
+* Pinterest: Find some ideas [gif](https://assets-global.website-files.com/63769718a5796097e763daed/63fc9e80d3a5afa59e348f18_PLANOLY%2520-%2520Story%2520Pins%2520-%2520Blog%2520Post%2520-%2520GIF%25201.gif)
 * Powerpoint: Slide ideas
   Midjourney
 
