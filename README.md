@@ -135,11 +135,11 @@ In this pattern, the user is presented with many options and asked to select amo
 ### Algorithmic feeds
 Algorithmic feeds provide initial generic options for the user.  They then quietly track usage and build a UX based on what the algorithm thinks the user will want to see and the order in which they will want to see it.  Frequency and volume is determined by the user’s actions.
 
-<img src="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/04/23/facebooknewsfeedquestions-600_Td7BEvA.jpg" width="400">
+<img src="https://raw.githubusercontent.com/abegong/awesome-ux-for-uncertainty/80df3b25c169ecd57d1d14b27a1829b1b64eb96d/img/Facebook%20img.jpeg" width="400">
 <img src="https://pbs.twimg.com/media/FeUJLLQXoAI8Fid.jpg:large" width="400">
 <img src="https://woo.com/wp-content/uploads/2021/10/Shop_your_board-US.gif" width="400">
 
-* Facebook newsfeed [image](https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/04/23/facebooknewsfeedquestions-600_Td7BEvA.jpg)
+* Facebook newsfeed [image](https://raw.githubusercontent.com/abegong/awesome-ux-for-uncertainty/80df3b25c169ecd57d1d14b27a1829b1b64eb96d/img/Facebook%20img.jpeg)
 * Twitter “For You” [image](https://pbs.twimg.com/media/FeUJLLQXoAI8Fid.jpg:large)
 * Pinterest: “More ideas” [gif](https://woo.com/wp-content/uploads/2021/10/Shop_your_board-US.gif)
 * Bluesky
