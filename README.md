@@ -130,14 +130,3 @@ Similar to natural language chat, wake words asks the user to input written or s
 
 * Siri [gif](https://media.tenor.com/oqH_E3R9gD4AAAAC/siri-apple.gif)
 * Alexa [gif](https://rapidapi.com/blog/wp-content/uploads/2016/10/alexa-gif.gif)
-
------
-
-## Blog posts
-* [how to successfully productise ai and realise its full potential](https://medium.com/@rachel_d_ai/how-to-successfully-productise-ai-and-realise-its-full-potential-f18e08386370)
-* [four UI design guidelines for creating machine learning applications](https://www.linkedin.com/pulse/four-ui-design-guidelines-creating-machine-learning-liikkanen/)
-
-
-## Presentations
-* https://www.youtube.com/watch?v=zqUi3p-o8wU&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F&index=43
-* https://www.youtube.com/watch?v=qw4PrtyvJI0&t=3567s
