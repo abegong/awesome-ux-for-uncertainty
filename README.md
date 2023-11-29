@@ -67,10 +67,12 @@ In this pattern, the user is presented with many options and asked to select amo
 
 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb" width="400">
 
+<img src="https://content.linkedin.com/content/dam/engineering/site-assets/images/blog/posts/2021/08/pymkupdate3.png" width="400">
+
 * Amazon: Top Picks for You [image](https://assets-global.website-files.com/60f03643ffba6a48a3bda298/6283567dd5e53d12f2bd1575_MeXlYz3B3hDgwKRyxKgt5E81tZrjGAJnRamktIFrBVn6vZt0NyK50a4MyS6WxP0Xy3E8CJPdAISoxxfiepg_nYKJQ9C4jovZhTClir3ljw_uAgqb9yZZv1Ksy7WZsAiUAW48mcFVvJTo8SlJSQ.png)
 * Netflix: Recommended movies within rows [image](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb)
     * [more info](https://help.netflix.com/en/node/100639)
-* Linkedin: People you May Know
+* Linkedin: People you May Know [image](https://content.linkedin.com/content/dam/engineering/site-assets/images/blog/posts/2021/08/pymkupdate3.png)
 
 
 ### Algorithmic feeds
