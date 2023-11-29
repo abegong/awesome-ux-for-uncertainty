@@ -136,13 +136,20 @@ In this pattern, the user is presented with many options and asked to select amo
 Algorithmic feeds provide initial generic options for the user.  They then quietly track usage and build a UX based on what the algorithm thinks the user will want to see and the order in which they will want to see it.  Frequency and volume is determined by the user’s actions.
 
 <img src="https://raw.githubusercontent.com/abegong/awesome-ux-for-uncertainty/80df3b25c169ecd57d1d14b27a1829b1b64eb96d/img/Facebook%20img.jpeg" width="400">
-<img src="https://pbs.twimg.com/media/FeUJLLQXoAI8Fid.jpg:large" width="400">
-<img src="https://woo.com/wp-content/uploads/2021/10/Shop_your_board-US.gif" width="400">
 
 * Facebook newsfeed [image](https://raw.githubusercontent.com/abegong/awesome-ux-for-uncertainty/80df3b25c169ecd57d1d14b27a1829b1b64eb96d/img/Facebook%20img.jpeg)
+  
+<img src="https://pbs.twimg.com/media/FeUJLLQXoAI8Fid.jpg:large" width="400">
+
 * Twitter “For You” [image](https://pbs.twimg.com/media/FeUJLLQXoAI8Fid.jpg:large)
-* Pinterest: “More ideas” [gif](https://woo.com/wp-content/uploads/2021/10/Shop_your_board-US.gif)
-* Bluesky
+  
+<img src="https://github.com/abegong/awesome-ux-for-uncertainty/blob/main/img/Pinterest%20gif.gif?raw=true" width="400">
+
+* Pinterest “More ideas” [gif](https://github.com/abegong/awesome-ux-for-uncertainty/blob/main/img/Pinterest%20gif.gif?raw=true)
+
+< img src="
+
+* Bluesky 
 
 ### Free text chat
 Natural language chat asks the user to input written or spoken language in the form of a command or question.  The job of the algorithm is to take that prompt and provide an output or reply using the internet and/or other databases.  The algorithm can also personalize responses based on user input.  Users can then opt to ask follow-up questions, not reply at all, or ask entirely new questions and repeat the sequence.
