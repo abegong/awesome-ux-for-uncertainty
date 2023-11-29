@@ -129,6 +129,8 @@ Natural language chat asks the user to input written or spoken language in the f
 ### Irreversible decisions
 Tangential to the select-among-many pattern, irreversible decisions are where the user is presented with a series of preset categories and asked to make a selection from within those categories. The algorithm's job is essentially to populate preset categories with a large set of ranked options. The user may review the options presented and make any number of choices but lacks the ability to change or influence the overall categories provided by the algorithm.
 
+* Netflix [link](https://help.netflix.com/en/node/100639)
+
 ### Wake words
 Similar to natural language chat, wake words asks the user to input written or spoken language in the form of a command or question using a specific trigger word or phrase (ie: wake word) to initiate the sequence.  The job of the algorithm is to engage once the wake word has been typed or spoken and captured into the microphone.   The algorithm cannot customize wake words but can customize responses based on user input.  To initiate the sequence again, the wake words must be spoken each time.
 
