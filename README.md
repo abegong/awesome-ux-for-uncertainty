@@ -74,21 +74,31 @@ With the confirmation pattern, an algorithm makes a decision, which the user mus
 ### Autocomplete text suggestions
 Autocomplete text suggestions provide the user with presumed text that the algorithm thinks will best complete the user’s sentence as it is typed.  The user is in full control over the function and may choose to ignore the algorithm’s suggestions or continue to type a particular suggestion in full.
 
-<img src="https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s1600/image2.gif" width="400"> <img src="https://rubenr.dev/_ipx/w_850/img/content/github-copilot-copilot-example.gif" width="400"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*unz4NueAtEe6k3IgdDYpsw.gif" width="400">
+<img src="https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s1600/image2.gif" width="400"> 
 
 * Gmail text completion [gif](https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s1600/image2.gif)
+  
+<img src="https://rubenr.dev/_ipx/w_850/img/content/github-copilot-copilot-example.gif" width="400"> 
+
 * Github copilot [gif](https://rubenr.dev/_ipx/w_850/img/content/github-copilot-copilot-example.gif)
+  
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*unz4NueAtEe6k3IgdDYpsw.gif" width="400">
+
 * Github copilot [gif](https://miro.medium.com/v2/resize:fit:1400/1*unz4NueAtEe6k3IgdDYpsw.gif)
 
 ### Regenerate, with options
 In this pattern, algorithms ask the user to submit some form of media (ie: text or photo).  The job of the algorithm is to take that media and convert it into something different and new, such as turning basic text into a presentation, editing a photo, etc.  The user can accept, edit, or decline the proposed changes and maintains full control throughout the process.  They can also use the algorithm for all of the work or just as a launching point.
 
 <img src="https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif" width="400">
+
+* Photoshop generative fill [gif](https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif)
+
 <img src="https://github.com/abegong/awesome-ux-for-uncertainty/blob/main/img/Tome%20app%20gif.gif?raw=true" width="400">
 
 * tome.app [gif](https://github.com/abegong/awesome-ux-for-uncertainty/blob/main/img/Tome%20app%20gif.gif?raw=true)
+
 * notion.ai (???)
-* Photoshop generative fill [gif](https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif)
+
 
 ### Choose from one of a few
 In this pattern, the user is presented with ideas or suggestions to help build a more personalized experience.  Typically the user picks at least one option, but may opt for more or none at all.  The algorithm’s job is to provide the user with a variety of possibilities to improve their experience, and the user has the flexibility to make changes to their initial selection throughout the entire process.
@@ -104,13 +114,15 @@ In this pattern, the user is presented with many options and asked to select amo
 
 <img src="https://assets-global.website-files.com/60f03643ffba6a48a3bda298/6283567dd5e53d12f2bd1575_MeXlYz3B3hDgwKRyxKgt5E81tZrjGAJnRamktIFrBVn6vZt0NyK50a4MyS6WxP0Xy3E8CJPdAISoxxfiepg_nYKJQ9C4jovZhTClir3ljw_uAgqb9yZZv1Ksy7WZsAiUAW48mcFVvJTo8SlJSQ.png"> 
 
+* Amazon: Top Picks for You [image](https://assets-global.website-files.com/60f03643ffba6a48a3bda298/6283567dd5e53d12f2bd1575_MeXlYz3B3hDgwKRyxKgt5E81tZrjGAJnRamktIFrBVn6vZt0NyK50a4MyS6WxP0Xy3E8CJPdAISoxxfiepg_nYKJQ9C4jovZhTClir3ljw_uAgqb9yZZv1Ksy7WZsAiUAW48mcFVvJTo8SlJSQ.png)
+
 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb" width="400">
+
+* Netflix: Recommended movies within rows [image](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb)
+    * [more info](https://help.netflix.com/en/node/100639)
 
 <img src="https://content.linkedin.com/content/dam/engineering/site-assets/images/blog/posts/2021/08/pymkupdate3.png" width="400">
 
-* Amazon: Top Picks for You [image](https://assets-global.website-files.com/60f03643ffba6a48a3bda298/6283567dd5e53d12f2bd1575_MeXlYz3B3hDgwKRyxKgt5E81tZrjGAJnRamktIFrBVn6vZt0NyK50a4MyS6WxP0Xy3E8CJPdAISoxxfiepg_nYKJQ9C4jovZhTClir3ljw_uAgqb9yZZv1Ksy7WZsAiUAW48mcFVvJTo8SlJSQ.png)
-* Netflix: Recommended movies within rows [image](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb)
-    * [more info](https://help.netflix.com/en/node/100639)
 * Linkedin: People you May Know [image](https://content.linkedin.com/content/dam/engineering/site-assets/images/blog/posts/2021/08/pymkupdate3.png)
 
 
