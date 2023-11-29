@@ -123,7 +123,10 @@ In this pattern, the user is presented with ideas or suggestions to help build a
 
 * Powerpoint: Slide ideas [image](https://cdn.slidemodel.com/wp-content/uploads/powerpoint-design-ideas-8-designer-slides.jpg)
   
-* Midjourney
+<img src="https://media.licdn.com/dms/image/D4D12AQF4DGcp2vmgmA/article-inline_image-shrink_1000_1488/0/1683099231582?e=1704931200&v=beta&t=9mcLMs-nbwDScd9By3ej9fAWk5kZMM-ParZ27Zyq3Ao" width="400">
+
+* Midjourney [gif](https://media.licdn.com/dms/image/D4D12AQF4DGcp2vmgmA/article-inline_image-shrink_1000_1488/0/1683099231582?e=1704931200&v=beta&t=9mcLMs-nbwDScd9By3ej9fAWk5kZMM-ParZ27Zyq3Ao)
+
 
 ### Select-among-many
 In this pattern, the user is presented with many options and asked to select among them. Often, The user is picking a single item, although multiple select UIs also exist. In some cases, the user might not make any choice at all. The algorithm's job is essentially to rank a large set of options, based on how appealing they're likely to be to the user.
