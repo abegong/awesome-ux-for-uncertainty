@@ -52,11 +52,12 @@ Examples:
 <img src="https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png" width="400">
 
 * Verification questions [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPeBSWmQ6vwJdqUIgb8mzIgBa29ZvguHjNXnsceuer_-dwrXo)
-<img src="https://media3.giphy.com/media/26mkhMYkitO7DoJuU/giphy.gif" width="400">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPeBSWmQ6vwJdqUIgb8mzIgBa29ZvguHjNXnsceuer_-dwrXo" width="400">
 
 * Tinder [gif](media3.giphy.com/media/26mkhMYkitO7DoJuU/giphy.gif)
+<img src="https://camo.githubusercontent.com/276fc38a1fb7ef779fc0b173bbc3a50c540365f975f07f391ec8bb0c72ff2f95/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f32366d6b684d596b69744f37446f4a75552f67697068792e676966" width="400">
+
 * Tinder [image](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVZYfbTg8wfy6y_foFM-FlBpQeH1SEHlLl9zvEkrPDF1y3M3sr)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPeBSWmQ6vwJdqUIgb8mzIgBa29ZvguHjNXnsceuer_-dwrXo" width="400">
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVZYfbTg8wfy6y_foFM-FlBpQeH1SEHlLl9zvEkrPDF1y3M3sr" width="400">
 
 * Photo ID [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vUFlsyp3qYW9RZ0oVzY7Ml_i6aZCA6NYwRmQL0Gv-dXxoTse)
