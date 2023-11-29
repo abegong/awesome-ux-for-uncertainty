@@ -103,7 +103,9 @@ In this pattern, algorithms ask the user to submit some form of media (ie: text 
 
 * tome.app [gif](https://github.com/abegong/awesome-ux-for-uncertainty/blob/main/img/Tome%20app%20gif.gif?raw=true)
 
-* notion.ai (???)
+<img src="https://images.squarespace-cdn.com/content/v1/5e9f110643dda33450579f3b/7ab655a1-cd33-42bc-a49b-80d8832cf9bf/fix_spelling_notionai.gif" width="400">
+
+* notion.ai [gif](https://images.squarespace-cdn.com/content/v1/5e9f110643dda33450579f3b/7ab655a1-cd33-42bc-a49b-80d8832cf9bf/fix_spelling_notionai.gif)
 
 
 ### Choose from one of a few
@@ -147,9 +149,9 @@ Algorithmic feeds provide initial generic options for the user.  They then quiet
 
 * Pinterest “More ideas” [gif](https://github.com/abegong/awesome-ux-for-uncertainty/blob/main/img/Pinterest%20gif.gif?raw=true)
 
-< img src="
+<img src="https://blueskyweb.xyz/images/blogposts/skyfeed.png" width="400">
 
-* Bluesky 
+* Bluesky [image](https://blueskyweb.xyz/images/blogposts/skyfeed.png)
 
 ### Free text chat
 Natural language chat asks the user to input written or spoken language in the form of a command or question.  The job of the algorithm is to take that prompt and provide an output or reply using the internet and/or other databases.  The algorithm can also personalize responses based on user input.  Users can then opt to ask follow-up questions, not reply at all, or ask entirely new questions and repeat the sequence.
@@ -167,7 +169,9 @@ Tangential to the select-among-many pattern, irreversible decisions are where th
 Similar to natural language chat, wake words asks the user to input written or spoken language in the form of a command or question using a specific trigger word or phrase (ie: wake word) to initiate the sequence.  The job of the algorithm is to engage once the wake word has been typed or spoken and captured into the microphone.   The algorithm cannot customize wake words but can customize responses based on user input.  To initiate the sequence again, the wake words must be spoken each time.
 
 <img src="https://media.tenor.com/oqH_E3R9gD4AAAAC/siri-apple.gif" width="400">
-<img src="https://rapidapi.com/blog/wp-content/uploads/2016/10/alexa-gif.gif" width="400">
 
 * Siri [gif](https://media.tenor.com/oqH_E3R9gD4AAAAC/siri-apple.gif)
+  
+<img src="https://rapidapi.com/blog/wp-content/uploads/2016/10/alexa-gif.gif" width="400">
+
 * Alexa [gif](https://rapidapi.com/blog/wp-content/uploads/2016/10/alexa-gif.gif)
