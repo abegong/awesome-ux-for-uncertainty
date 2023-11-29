@@ -1,12 +1,35 @@
 # awesome-ux-for-uncertainty
-...is a repo of links and resources about UX patterns for applications the involve prediction/uncertainty/"guessing"/etc.
+...is a repo of resources about **UX patterns for applications based on data / machine learning / AI**. Apps of this kind are different than traditional software, because they include statistical uncertainty (aka "guessing".) 
 
-UI patterns for uncertainty have been an important niche topic ever since we started building apps that surface data and predictions from algorithms.
+Putting together a talk in Nov 2023, I discovered that information on how to design and build the *backends* for these kinds of applications was easy to find, but information about how to design and build good *frontend* experiences was surprisingly hard to find. There was a lot of good raw material (blog posts, conference talks, screen shots, books, etc.), but it's scattered and disorganized.
 
-With all the new capabilities of generative AI, this area of UX is due for reimagination.
+My goal for `awesome-ux-for-uncertainty` is to provide a one-stop-shop for these kinds of resources, so that anyone who builds these kinds of applications can quickly some up to speed. This area of UI/UX has been an important niche topic ever since applications started surfacing data and predictions from algorithms. With all the new capabilities of generative AI, this area of UX is due for reimagination.
 
-Putting a talk in Nov 2023, I was surprised that nothing quite like awesome-ux-for-uncertainty existed. I hope it’ll be a useful place for data and UX people to collaborate.
+## Contributing
 
+As of Nov 2023, this repo is the single best resource on this subject that I know of, but it's not remotely complete or comprehensive. It includes links I used for a single talk on this subject, plus some ideas contributed by others on twitter and Linkedin. 
+
+* If you'd like to add a link/screen shot/etc, please submit a pull request and I'll review and approve as quickly as possible.
+* If you'd like to add a whole new section, please create an issue and we can discuss it there.
+* If you have other questions, comments, ideas, or just want to compare notes on this subject, you can reach me in the smoking remains of twitter at [@abegong](https://twitter.com/abegong). DMs open.
+
+## Table of contents
+
+* Blog posts
+* Presentations
+* Books
+* UX Patterns
+
+
+
+## Blog posts
+* [how to successfully productise ai and realise its full potential](https://medium.com/@rachel_d_ai/how-to-successfully-productise-ai-and-realise-its-full-potential-f18e08386370)
+* [four UI design guidelines for creating machine learning applications](https://www.linkedin.com/pulse/four-ui-design-guidelines-creating-machine-learning-liikkanen/)
+
+
+## Presentations
+* https://www.youtube.com/watch?v=zqUi3p-o8wU&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F&index=43
+* https://www.youtube.com/watch?v=qw4PrtyvJI0&t=3567s
 
 
 ## UX Patterns
