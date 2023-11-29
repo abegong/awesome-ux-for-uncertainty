@@ -46,9 +46,10 @@ Autocomplete text suggestions provide the user with presumed text that the algor
 ### Regenerate, with options
 In this pattern, algorithms ask the user to submit some form of media (ie: text or photo).  The job of the algorithm is to take that media and convert it into something different and new, such as turning basic text into a presentation, editing a photo, etc.  The user can accept, edit, or decline the proposed changes and maintains full control throughout the process.  They can also use the algorithm for all of the work or just as a launching point.
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400">
+<img src="https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif" width="400">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24145657-f628-4b0b-8ad5-a19b0d918eb6_1329x747.gif" width="400">
 
-* tome.app
+* tome.app [gif](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24145657-f628-4b0b-8ad5-a19b0d918eb6_1329x747.gif)
 * notion.ai (???)
 * Photoshop generative fill [gif](https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif)
 
