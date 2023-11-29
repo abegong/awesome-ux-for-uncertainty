@@ -17,10 +17,10 @@ Huge thanks for @drmann86 for his help pulling resources from the talk over into
 
 ## Table of contents
 
-* Blog posts
-* Presentations
-* Books
-* UX Patterns
+* <a href="https://github.com/abegong/awesome-ux-for-uncertainty#blog-posts">Blog posts</a>
+* <a href="https://github.com/abegong/awesome-ux-for-uncertainty#presentations">Presentations</a>
+* <a href="https://github.com/abegong/awesome-ux-for-uncertainty#books">Books</a>
+* <a href="https://github.com/abegong/awesome-ux-for-uncertainty#ux-patterns">UX Patterns</a>
 
 
 
@@ -33,6 +33,7 @@ Huge thanks for @drmann86 for his help pulling resources from the talk over into
 * https://www.youtube.com/watch?v=zqUi3p-o8wU&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F&index=43
 * https://www.youtube.com/watch?v=qw4PrtyvJI0&t=3567s
 
+## Books
 
 ## UX Patterns
 
