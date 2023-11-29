@@ -46,18 +46,23 @@ Here, an algorithm makes a decision, which the user can audit and change if they
 ### Confirmation
 With the confirmation pattern, an algorithm makes a decision, which the user must review and confirm. However, the user may opt to not confirm or accept the decision at all.  This decide-and-confirm step is often one step in a multi-step workflow.
 
-<img src="https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png" width="400">
-<img src="https://media3.giphy.com/media/26mkhMYkitO7DoJuU/giphy.gif" width="400">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPeBSWmQ6vwJdqUIgb8mzIgBa29ZvguHjNXnsceuer_-dwrXo" width="400">
-<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVZYfbTg8wfy6y_foFM-FlBpQeH1SEHlLl9zvEkrPDF1y3M3sr" width="400">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vUFlsyp3qYW9RZ0oVzY7Ml_i6aZCA6NYwRmQL0Gv-dXxoTse" width="400">
-
+Examples:
 * Gmail responses [image](https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png)
+<img src="https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png" width="400">
+
 * Verification questions [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPeBSWmQ6vwJdqUIgb8mzIgBa29ZvguHjNXnsceuer_-dwrXo)
+<img src="https://media3.giphy.com/media/26mkhMYkitO7DoJuU/giphy.gif" width="400">
+
 * Tinder [gif](media3.giphy.com/media/26mkhMYkitO7DoJuU/giphy.gif)
 * Tinder [image](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVZYfbTg8wfy6y_foFM-FlBpQeH1SEHlLl9zvEkrPDF1y3M3sr)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPeBSWmQ6vwJdqUIgb8mzIgBa29ZvguHjNXnsceuer_-dwrXo" width="400">
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVZYfbTg8wfy6y_foFM-FlBpQeH1SEHlLl9zvEkrPDF1y3M3sr" width="400">
+
 * Photo ID [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vUFlsyp3qYW9RZ0oVzY7Ml_i6aZCA6NYwRmQL0Gv-dXxoTse)
-* Apple text swipe interface
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vUFlsyp3qYW9RZ0oVzY7Ml_i6aZCA6NYwRmQL0Gv-dXxoTse" width="400">
+
+* Apple text swipe interface [gif](https://wolfewithane.com/_image_cache/f1a040a0-8c47-453f-a5ff-530d8e927da2.gif)
+<img src="https://wolfewithane.com/_image_cache/f1a040a0-8c47-453f-a5ff-530d8e927da2.gif" width="400">
 
 ### Autocomplete text suggestions
 Autocomplete text suggestions provide the user with presumed text that the algorithm thinks will best complete the user’s sentence as it is typed.  The user is in full control over the function and may choose to ignore the algorithm’s suggestions or continue to type a particular suggestion in full.
