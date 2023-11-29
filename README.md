@@ -10,6 +10,10 @@ My goal for `awesome-ux-for-uncertainty` is to provide a one-stop-shop for these
 As of Nov 2023, this repo is the single best resource on this subject that I know of, but it's not remotely complete or comprehensive. It includes links I used for a single talk on this subject, plus some ideas contributed by others on twitter and Linkedin. 
 
 * If you'd like to add a link/screen shot/etc, please submit a pull request and I'll review and approve as quickly as possible.
+  * The lists of blog posts, presentations, and books are alphabetical by title. Please use this ordering.
+  * All links must be related to UX patterns for applications based on data / machine learning / AI, but they don't need to be focused exclusively on that topic. If it's questionable, I'll make a judgement call as part of my review.
+  * Within UX Patterns, I add links in the order they're submitted.
+  * Please use consistent styling and formatting when adding new links.
 * If you'd like to add a whole new section, please create an issue and we can discuss it there.
 * If you have other questions, comments, ideas, or just want to compare notes on this subject, you can reach me in the smoking remains of twitter at [@abegong](https://twitter.com/abegong). DMs open.
 
