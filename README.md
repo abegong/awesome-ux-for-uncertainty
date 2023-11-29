@@ -35,6 +35,12 @@ Huge thanks for @drmann86 for his help pulling resources from the talk over into
 
 ## Books
 
+* [Don’t make me think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/), Steve Krug
+* [Microinteractions](https://www.amazon.com/Microinteractions-Full-Color-Designing-Details/dp/1491945923/), Dan Saffer and Don Norman
+* [Designing for behavior change](https://www.amazon.com/Designing-Behavior-Change-Psychology-Behavioral/dp/1492056030), Stephen Wendel
+* [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/0241184835), Nir Eyal
+
+
 ## UX Patterns
 
 ### Reversible decision
