@@ -25,8 +25,8 @@ Huge thanks for @drmann86 for his help pulling resources from the talk over into
 
 
 ## Blog posts
-* [how to successfully productise ai and realise its full potential](https://medium.com/@rachel_d_ai/how-to-successfully-productise-ai-and-realise-its-full-potential-f18e08386370)
-* [four UI design guidelines for creating machine learning applications](https://www.linkedin.com/pulse/four-ui-design-guidelines-creating-machine-learning-liikkanen/)
+* [How to successfully productise ai and realise its full potential](https://medium.com/@rachel_d_ai/how-to-successfully-productise-ai-and-realise-its-full-potential-f18e08386370), Rachel Dulberg
+* [Four UI design guidelines for creating machine learning applications](https://www.linkedin.com/pulse/four-ui-design-guidelines-creating-machine-learning-liikkanen/), Lassi A. Liikkanen
 
 
 ## Presentations
