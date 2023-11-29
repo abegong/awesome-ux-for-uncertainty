@@ -80,15 +80,21 @@ In this pattern, the user is presented with many options and asked to select amo
 ### Algorithmic feeds
 Algorithmic feeds provide initial generic options for the user.  They then quietly track usage and build a UX based on what the algorithm thinks the user will want to see and the order in which they will want to see it.  Frequency and volume is determined by the user’s actions.
 
-* Facebook newsfeed
-* Twitter “For You”
-* Pinterest: “More ideas”
+<img src="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/04/23/facebooknewsfeedquestions-600_Td7BEvA.jpg" width="400">
+<img src="https://pbs.twimg.com/media/FeUJLLQXoAI8Fid.jpg:large" width="400">
+<img src="https://woo.com/wp-content/uploads/2021/10/Shop_your_board-US.gif" width="400">
+
+* Facebook newsfeed [image](https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/04/23/facebooknewsfeedquestions-600_Td7BEvA.jpg)
+* Twitter “For You” [image](https://pbs.twimg.com/media/FeUJLLQXoAI8Fid.jpg:large)
+* Pinterest: “More ideas” [gif](https://woo.com/wp-content/uploads/2021/10/Shop_your_board-US.gif)
 * Bluesky
 
 ### Free text chat
 Natural language chat asks the user to input written or spoken language in the form of a command or question.  The job of the algorithm is to take that prompt and provide an output or reply using the internet and/or other databases.  The algorithm can also personalize responses based on user input.  Users can then opt to ask follow-up questions, not reply at all, or ask entirely new questions and repeat the sequence.
 
-* ChatGPT
+<img src="https://cdn.fstoppers.com/styles/full/s3/media/2022/12/08/chatgpt_screen_rec_cropped.gif" width="400">
+
+* ChatGPT [gif](https://cdn.fstoppers.com/styles/full/s3/media/2022/12/08/chatgpt_screen_rec_cropped.gif)
 
 ### Irreversible decisions
 Tangential to the select-among-many pattern, irreversible decisions are where the user is presented with a series of preset categories and asked to make a selection from within those categories. The algorithm's job is essentially to populate preset categories with a large set of ranked options. The user may review the options presented and make any number of choices but lacks the ability to change or influence the overall categories provided by the algorithm.
