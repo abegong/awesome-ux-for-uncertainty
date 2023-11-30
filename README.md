@@ -36,6 +36,7 @@ Huge thanks for @drmann86 for his help pulling resources from the talk over into
 ## Presentations
 * [Climbing the ladder of abstraction](https://www.youtube.com/watch?v=qw4PrtyvJI0&t=3355s), Amelia Wattenberger, AI Engineer Summit 2023
 * [Designing with AI: building the flagship GPT-4 language product at Duolingo](https://www.youtube.com/watch?v=zqUi3p-o8wU&list=PLXDU_eVOJTx61IdqXh3jrvopJN8HGkS5F&index=43), Edwin Bodge and Megan Bednarczyk, Config 2023
+* [UX Patterns for Uncertainty](https://docs.google.com/presentation/d/e/2PACX-1vS8sxzTOOzqoNEfyh3sHsjSUNs3Pa0SnvD9RezK4yNu9zG_lWZz0dhQRbJXegD7bOTp9ijsu-7q2DL1/pub?start=false&loop=false&slide=id.p), Abe Gong, November 2023
 
 ## Books
 
