@@ -25,8 +25,17 @@ Huge thanks for @drmann86 for his help pulling resources from the talk over into
 * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#presentations">Presentations</a>
 * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#books">Books</a>
 * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#ux-patterns">UX Patterns</a>
-
-
+  * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#choose-from-one-of-a-few">Choose from one of a few</a>
+  * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#select-among-many">Select-among-many</a>
+  * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#sequential-questions">Sequential questions</a>
+  * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#confirmation">Confirmation</a>
+  * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#reversible-decision">Reversible decision</a>
+  * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#irreversible-decisions">Irreversible decisions</a>
+  * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#autocomplete-text-suggestions">Autocomplete text suggestions</a>
+  * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#regenerate-with-options">Regenerate, with options</a>
+  * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#algorithmic-feeds">Algorithmic feeds</a>
+  * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#natural-language-chat">Natural language chat</a>
+  * <a href="https://github.com/abegong/awesome-ux-for-uncertainty#wake-words">Wake words</a>
 
 ## Blog posts
 * [Four UI design guidelines for creating machine learning applications](https://www.linkedin.com/pulse/four-ui-design-guidelines-creating-machine-learning-liikkanen/), Lassi A. Liikkanen
