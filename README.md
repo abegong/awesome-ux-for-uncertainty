@@ -53,7 +53,7 @@ Here, an algorithm makes a decision, which the user can audit and change if they
 
 **Examples:**
 
-* Gmail spam filtering [image](https://www.dangerouscommonsense.com/wp-content/uploads/2012/10/gmail-spam-fighting.jpg)
+* Gmail spam filtering
 <img src="https://www.dangerouscommonsense.com/wp-content/uploads/2012/10/gmail-spam-fighting.jpg" width="400">
 
 ### Confirmation
@@ -61,39 +61,22 @@ With the confirmation pattern, an algorithm makes a decision, which the user mus
 
 **Examples:**
 
-* Gmail responses [image](https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png)
-<img src="https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png" width="400">
-
-* Verification questions [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPeBSWmQ6vwJdqUIgb8mzIgBa29ZvguHjNXnsceuer_-dwrXo)
+* Facebook person matching
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPeBSWmQ6vwJdqUIgb8mzIgBa29ZvguHjNXnsceuer_-dwrXo" width="400">
 
-* Tinder [gif](media3.giphy.com/media/26mkhMYkitO7DoJuU/giphy.gif)
-<img src="https://camo.githubusercontent.com/276fc38a1fb7ef779fc0b173bbc3a50c540365f975f07f391ec8bb0c72ff2f95/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f32366d6b684d596b69744f37446f4a75552f67697068792e676966" width="400">
-
-
-* Tinder [image](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVZYfbTg8wfy6y_foFM-FlBpQeH1SEHlLl9zvEkrPDF1y3M3sr)
-<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVZYfbTg8wfy6y_foFM-FlBpQeH1SEHlLl9zvEkrPDF1y3M3sr" width="400">
-
-
-* Photo ID [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vUFlsyp3qYW9RZ0oVzY7Ml_i6aZCA6NYwRmQL0Gv-dXxoTse)
+* Google photos face matching
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vUFlsyp3qYW9RZ0oVzY7Ml_i6aZCA6NYwRmQL0Gv-dXxoTse" width="400">
-
-* Apple text swipe interface [gif](https://wolfewithane.com/_image_cache/f1a040a0-8c47-453f-a5ff-530d8e927da2.gif)
-<img src="https://wolfewithane.com/_image_cache/f1a040a0-8c47-453f-a5ff-530d8e927da2.gif" width="400">
-
 
 ### Autocomplete text suggestions
 Autocomplete text suggestions provide the user with presumed text that the algorithm thinks will best complete the user’s sentence as it is typed.  The user is in full control over the function and may choose to ignore the algorithm’s suggestions or continue to type a particular suggestion in full.
 
 **Examples:**
 
-* Gmail text completion [gif](https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s1600/image2.gif)
+* Gmail text completion
 <img src="https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s1600/image2.gif" width="400"> 
   
-* Github copilot [gif](https://rubenr.dev/_ipx/w_850/img/content/github-copilot-copilot-example.gif)
+* Github copilot
 <img src="https://rubenr.dev/_ipx/w_850/img/content/github-copilot-copilot-example.gif" width="400"> 
-  
-* Github copilot [gif](https://miro.medium.com/v2/resize:fit:1400/1*unz4NueAtEe6k3IgdDYpsw.gif)
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*unz4NueAtEe6k3IgdDYpsw.gif" width="400">
 
 
@@ -102,13 +85,13 @@ In this pattern, algorithms ask the user to submit some form of media (ie: text 
 
 **Examples:**
 
-* Photoshop generative fill [gif](https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif)
+* Photoshop generative fill
 <img src="https://www.geekseller.com/wp-content/uploads/2023/05/ADOBE-REMOVE-BG.gif" width="400">
 
-* tome.app [gif](https://github.com/abegong/awesome-ux-for-uncertainty/blob/main/img/Tome%20app%20gif.gif?raw=true)
+* tome.app
 <img src="https://github.com/abegong/awesome-ux-for-uncertainty/blob/main/img/Tome%20app%20gif.gif?raw=true" width="400">
 
-* notion.ai [gif](https://images.squarespace-cdn.com/content/v1/5e9f110643dda33450579f3b/7ab655a1-cd33-42bc-a49b-80d8832cf9bf/fix_spelling_notionai.gif)
+* notion.ai
 <img src="https://images.squarespace-cdn.com/content/v1/5e9f110643dda33450579f3b/7ab655a1-cd33-42bc-a49b-80d8832cf9bf/fix_spelling_notionai.gif" width="400">
 
 
@@ -117,64 +100,78 @@ In this pattern, the user is presented with ideas or suggestions to help build a
 
 **Examples:**
 
-* Pinterest: Find some ideas [gif](https://assets-global.website-files.com/63769718a5796097e763daed/63fc9e80d3a5afa59e348f18_PLANOLY%2520-%2520Story%2520Pins%2520-%2520Blog%2520Post%2520-%2520GIF%25201.gif)
+* Pinterest: Find some ideas
 <img src="https://assets-global.website-files.com/63769718a5796097e763daed/63fc9e80d3a5afa59e348f18_PLANOLY%2520-%2520Story%2520Pins%2520-%2520Blog%2520Post%2520-%2520GIF%25201.gif" width="400">
 
-* Powerpoint: Slide ideas [image](https://cdn.slidemodel.com/wp-content/uploads/powerpoint-design-ideas-8-designer-slides.jpg)
+* Powerpoint: Slide ideas
 <img src="https://cdn.slidemodel.com/wp-content/uploads/powerpoint-design-ideas-8-designer-slides.jpg" width="400"> 
   
-* Midjourney [gif](https://media.licdn.com/dms/image/D4D12AQF4DGcp2vmgmA/article-inline_image-shrink_1000_1488/0/1683099231582?e=1704931200&v=beta&t=9mcLMs-nbwDScd9By3ej9fAWk5kZMM-ParZ27Zyq3Ao)
+* Midjourney: Pick one of 4 generated images to enlarge
 <img src="https://media.licdn.com/dms/image/D4D12AQF4DGcp2vmgmA/article-inline_image-shrink_1000_1488/0/1683099231582?e=1704931200&v=beta&t=9mcLMs-nbwDScd9By3ej9fAWk5kZMM-ParZ27Zyq3Ao" width="400">
 
+* Apple text swipe interface
+  * This one is a mix of confirmation and multiple choice.
+<img src="https://wolfewithane.com/_image_cache/f1a040a0-8c47-453f-a5ff-530d8e927da2.gif" width="400">
 
-### Select-among-many
-In this pattern, the user is presented with many options and asked to select among them. Often, The user is picking a single item, although multiple select UIs also exist. In some cases, the user might not make any choice at all. The algorithm's job is essentially to rank a large set of options, based on how appealing they're likely to be to the user.
+* Gmail autocomplete responses
+<img src="https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png" width="400">
+
+### Sequential questions
+Sometimes the user needs to make a series of several decisions one after another.
 
 **Examples:**
 
-* Amazon: Top Picks for You [image](https://assets-global.website-files.com/60f03643ffba6a48a3bda298/6283567dd5e53d12f2bd1575_MeXlYz3B3hDgwKRyxKgt5E81tZrjGAJnRamktIFrBVn6vZt0NyK50a4MyS6WxP0Xy3E8CJPdAISoxxfiepg_nYKJQ9C4jovZhTClir3ljw_uAgqb9yZZv1Ksy7WZsAiUAW48mcFVvJTo8SlJSQ.png)
+* Tinder swipe UI
+<img src="https://camo.githubusercontent.com/276fc38a1fb7ef779fc0b173bbc3a50c540365f975f07f391ec8bb0c72ff2f95/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f32366d6b684d596b69744f37446f4a75552f67697068792e676966" width="400">
+
+### Select-among-many
+In this pattern, the user is presented with many options and asked to select among them. Often, The user is picking a single item, although multiple select UIs also exist. In some cases, the user might not make any choice at all. The algorithm's job is essentially to rank a large set of options, based on how appealing they're likely to be to the user. This UX pattern is often paired with a recommender system on the back end.
+
+**Examples:**
+
+* Amazon: Top Picks for You
 <img src="https://assets-global.website-files.com/60f03643ffba6a48a3bda298/6283567dd5e53d12f2bd1575_MeXlYz3B3hDgwKRyxKgt5E81tZrjGAJnRamktIFrBVn6vZt0NyK50a4MyS6WxP0Xy3E8CJPdAISoxxfiepg_nYKJQ9C4jovZhTClir3ljw_uAgqb9yZZv1Ksy7WZsAiUAW48mcFVvJTo8SlJSQ.png"> 
 
-* Netflix: Recommended movies within rows [image](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb)
+* Netflix: Recommended movies within rows
     * [more info](https://help.netflix.com/en/node/100639)
 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb" width="400">
 
-* Linkedin: People you May Know [image](https://content.linkedin.com/content/dam/engineering/site-assets/images/blog/posts/2021/08/pymkupdate3.png)
+* Linkedin: People you May Know
 <img src="https://content.linkedin.com/content/dam/engineering/site-assets/images/blog/posts/2021/08/pymkupdate3.png" width="400">
 
 
 ### Algorithmic feeds
 Algorithmic feeds provide initial generic options for the user.  They then quietly track usage and build a UX based on what the algorithm thinks the user will want to see and the order in which they will want to see it.  Frequency and volume is determined by the user’s actions.
 
-* Facebook newsfeed [image](https://raw.githubusercontent.com/abegong/awesome-ux-for-uncertainty/80df3b25c169ecd57d1d14b27a1829b1b64eb96d/img/Facebook%20img.jpeg)
+* Facebook newsfeed
 <img src="https://raw.githubusercontent.com/abegong/awesome-ux-for-uncertainty/80df3b25c169ecd57d1d14b27a1829b1b64eb96d/img/Facebook%20img.jpeg" width="400">
 
-* Twitter “For You” [image](https://pbs.twimg.com/media/FeUJLLQXoAI8Fid.jpg:large)
+* Twitter “For You”
 <img src="https://pbs.twimg.com/media/FeUJLLQXoAI8Fid.jpg:large" width="400">
   
-* Pinterest “More ideas” [gif](https://github.com/abegong/awesome-ux-for-uncertainty/blob/main/img/Pinterest%20gif.gif?raw=true)
+* Pinterest “More ideas”
 <img src="https://github.com/abegong/awesome-ux-for-uncertainty/blob/main/img/Pinterest%20gif.gif?raw=true" width="400">
 
-* Bluesky [image](https://blueskyweb.xyz/images/blogposts/skyfeed.png)
+* Bluesky
 <img src="https://blueskyweb.xyz/images/blogposts/skyfeed.png" width="400">
 
 ### Free text chat
 Natural language chat asks the user to input written or spoken language in the form of a command or question.  The job of the algorithm is to take that prompt and provide an output or reply using the internet and/or other databases.  The algorithm can also personalize responses based on user input.  Users can then opt to ask follow-up questions, not reply at all, or ask entirely new questions and repeat the sequence.
 
-* ChatGPT [gif](https://cdn.fstoppers.com/styles/full/s3/media/2022/12/08/chatgpt_screen_rec_cropped.gif)
+* ChatGPT
 <img src="https://cdn.fstoppers.com/styles/full/s3/media/2022/12/08/chatgpt_screen_rec_cropped.gif" width="400">
 
 ### Irreversible decisions
 Tangential to the select-among-many pattern, irreversible decisions are where the user is presented with a series of preset categories and asked to make a selection from within those categories. The algorithm's job is essentially to populate preset categories with a large set of ranked options. The user may review the options presented and make any number of choices but lacks the ability to change or influence the overall categories provided by the algorithm.
 
-* Netflix movie recommendation rows [link](https://help.netflix.com/en/node/100639)
+* Netflix movie recommendation rows
 <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb" width="400">
 
 ### Wake words
-Similar to natural language chat, wake words asks the user to input written or spoken language in the form of a command or question using a specific trigger word or phrase (ie: wake word) to initiate the sequence.  The job of the algorithm is to engage once the wake word has been typed or spoken and captured into the microphone.   The algorithm cannot customize wake words but can customize responses based on user input.  To initiate the sequence again, the wake words must be spoken each time.
+Wake words are a way of distinguishing between background noise and communication with a device. This interface asks the user to input written or spoken language in the form of a command or question using a specific trigger word or phrase (ie: wake word) to initiate the sequence.  The job of the algorithm is to engage once the wake word has been typed or spoken and captured into the microphone.   The algorithm cannot customize wake words but can customize responses based on user input.  To initiate the sequence again, the wake words must be spoken each time.
 
-* Siri [gif](https://media.tenor.com/oqH_E3R9gD4AAAAC/siri-apple.gif)
+* Siri
 <img src="https://media.tenor.com/oqH_E3R9gD4AAAAC/siri-apple.gif" width="400">
   
-* Alexa [gif](https://rapidapi.com/blog/wp-content/uploads/2016/10/alexa-gif.gif)
+* Alexa
 <img src="https://rapidapi.com/blog/wp-content/uploads/2016/10/alexa-gif.gif" width="400">
