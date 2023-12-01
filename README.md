@@ -57,13 +57,52 @@ Huge thanks for @drmann86 for his help pulling resources from the talk over into
 
 ## UX Patterns
 
-### Reversible decision
-Here, an algorithm makes a decision, which the user can audit and change if they choose.  This pattern works best when you can be very confident in algorithm's accuracy and/or the consequences of making a mistake aren't severe.
+### Choose from one of a few
+In this pattern, the user is presented with a set of ideas or suggestions.  Typically the user picks at least one option, but may opt for more or none at all.  The pattern can be a good fit if the user needs to make a multiple-choice-type decision, or if you want to present the user with a variety of possibilities.
 
 **Examples:**
 
-* Gmail spam filtering
-<img src="https://www.dangerouscommonsense.com/wp-content/uploads/2012/10/gmail-spam-fighting.jpg" width="400">
+* Pinterest: Find some ideas
+<img src="https://assets-global.website-files.com/63769718a5796097e763daed/63fc9e80d3a5afa59e348f18_PLANOLY%2520-%2520Story%2520Pins%2520-%2520Blog%2520Post%2520-%2520GIF%25201.gif" width="400">
+
+* Powerpoint: Slide ideas
+<img src="https://cdn.slidemodel.com/wp-content/uploads/powerpoint-design-ideas-8-designer-slides.jpg" width="400"> 
+  
+* Midjourney: Pick one of 4 generated images to enlarge
+<img src="https://media.licdn.com/dms/image/D4D12AQF4DGcp2vmgmA/article-inline_image-shrink_1000_1488/0/1683099231582?e=1704931200&v=beta&t=9mcLMs-nbwDScd9By3ej9fAWk5kZMM-ParZ27Zyq3Ao" width="400">
+
+* Apple text swipe interface
+  * This one is a mix of confirmation and multiple choice.
+<img src="https://wolfewithane.com/_image_cache/f1a040a0-8c47-453f-a5ff-530d8e927da2.gif" width="400">
+
+* Gmail autocomplete responses
+<img src="https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png" width="400">
+
+
+### Select-among-many
+This pattern (often paired with a recommender system on the backend) is a good way to present the user with many options to see which (if any) are interesting. It's a good fit when there are a very large number of options to select among, and you have an algorithm that is accurate enough can help users filter out many options, but not accurate enough to identify exactly what will be appealing to the user.
+
+**Examples:**
+
+* Amazon: Top Picks for You
+<img src="https://assets-global.website-files.com/60f03643ffba6a48a3bda298/6283567dd5e53d12f2bd1575_MeXlYz3B3hDgwKRyxKgt5E81tZrjGAJnRamktIFrBVn6vZt0NyK50a4MyS6WxP0Xy3E8CJPdAISoxxfiepg_nYKJQ9C4jovZhTClir3ljw_uAgqb9yZZv1Ksy7WZsAiUAW48mcFVvJTo8SlJSQ.png"> 
+
+* Netflix: Recommended movies within rows
+    * [more info](https://help.netflix.com/en/node/100639)
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb" width="400">
+
+* Linkedin: People you May Know
+<img src="https://content.linkedin.com/content/dam/engineering/site-assets/images/blog/posts/2021/08/pymkupdate3.png" width="400">
+
+
+### Sequential questions
+Sometimes the user needs to make a series of several decisions one after another. In that case, a lightweight UI that presents relevant information and allows a quick decision can be a good fit.
+
+**Examples:**
+
+* Tinder swipe UI
+<img src="https://camo.githubusercontent.com/276fc38a1fb7ef779fc0b173bbc3a50c540365f975f07f391ec8bb0c72ff2f95/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f32366d6b684d596b69744f37446f4a75552f67697068792e676966" width="400">
+
 
 ### Confirmation
 With the confirmation pattern, an algorithm makes a decision, which the user can review and confirm. In some cases, confirmation is a required step in a multi-step workflow. In other cases, it can be optional.
@@ -75,6 +114,23 @@ With the confirmation pattern, an algorithm makes a decision, which the user can
 
 * Google photos face matching
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vUFlsyp3qYW9RZ0oVzY7Ml_i6aZCA6NYwRmQL0Gv-dXxoTse" width="400">
+
+
+### Reversible decision
+Here, an algorithm makes a decision, which the user can audit and change if they choose.  This pattern works best when you can be very confident in algorithm's accuracy and/or the consequences of making a mistake aren't severe.
+
+**Examples:**
+
+* Gmail spam filtering
+<img src="https://www.dangerouscommonsense.com/wp-content/uploads/2012/10/gmail-spam-fighting.jpg" width="400">
+
+
+### Irreversible decision
+In this UX pattern, an algorithm makes a decision silently, with no direct interaction from the user.
+
+* Netflix movie recommendation rows
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb" width="400">
+
 
 ### Autocomplete text suggestions
 Autocomplete text suggestions can save time and give the user ideas for what to write next. "Tab to accept" has proven to be a simple and intuitive interface. For this kind of interface, low latency and the length of the recommended text snippet are important considerations.
@@ -104,51 +160,6 @@ Many of the design patterns create new content, or make a standalone decision. T
 <img src="https://images.squarespace-cdn.com/content/v1/5e9f110643dda33450579f3b/7ab655a1-cd33-42bc-a49b-80d8832cf9bf/fix_spelling_notionai.gif" width="400">
 
 
-### Choose from one of a few
-In this pattern, the user is presented with a set of ideas or suggestions.  Typically the user picks at least one option, but may opt for more or none at all.  The pattern can be a good fit if the user needs to make a multiple-choice-type decision, or if you want to present the user with a variety of possibilities.
-
-**Examples:**
-
-* Pinterest: Find some ideas
-<img src="https://assets-global.website-files.com/63769718a5796097e763daed/63fc9e80d3a5afa59e348f18_PLANOLY%2520-%2520Story%2520Pins%2520-%2520Blog%2520Post%2520-%2520GIF%25201.gif" width="400">
-
-* Powerpoint: Slide ideas
-<img src="https://cdn.slidemodel.com/wp-content/uploads/powerpoint-design-ideas-8-designer-slides.jpg" width="400"> 
-  
-* Midjourney: Pick one of 4 generated images to enlarge
-<img src="https://media.licdn.com/dms/image/D4D12AQF4DGcp2vmgmA/article-inline_image-shrink_1000_1488/0/1683099231582?e=1704931200&v=beta&t=9mcLMs-nbwDScd9By3ej9fAWk5kZMM-ParZ27Zyq3Ao" width="400">
-
-* Apple text swipe interface
-  * This one is a mix of confirmation and multiple choice.
-<img src="https://wolfewithane.com/_image_cache/f1a040a0-8c47-453f-a5ff-530d8e927da2.gif" width="400">
-
-* Gmail autocomplete responses
-<img src="https://betanews.com/wp-content/uploads/2017/05/Side-By-Side-v2.png" width="400">
-
-### Sequential questions
-Sometimes the user needs to make a series of several decisions one after another. In that case, a lightweight UI that presents relevant information and allows a quick decision can be a good fit.
-
-**Examples:**
-
-* Tinder swipe UI
-<img src="https://camo.githubusercontent.com/276fc38a1fb7ef779fc0b173bbc3a50c540365f975f07f391ec8bb0c72ff2f95/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f32366d6b684d596b69744f37446f4a75552f67697068792e676966" width="400">
-
-### Select-among-many
-This pattern (often paired with a recommender system on the backend) is a good way to present the user with many options to see which (if any) are interesting. It's a good fit when there are a very large number of options to select among, and you have an algorithm that is accurate enough can help users filter out many options, but not accurate enough to identify exactly what will be appealing to the user.
-
-**Examples:**
-
-* Amazon: Top Picks for You
-<img src="https://assets-global.website-files.com/60f03643ffba6a48a3bda298/6283567dd5e53d12f2bd1575_MeXlYz3B3hDgwKRyxKgt5E81tZrjGAJnRamktIFrBVn6vZt0NyK50a4MyS6WxP0Xy3E8CJPdAISoxxfiepg_nYKJQ9C4jovZhTClir3ljw_uAgqb9yZZv1Ksy7WZsAiUAW48mcFVvJTo8SlJSQ.png"> 
-
-* Netflix: Recommended movies within rows
-    * [more info](https://help.netflix.com/en/node/100639)
-<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb" width="400">
-
-* Linkedin: People you May Know
-<img src="https://content.linkedin.com/content/dam/engineering/site-assets/images/blog/posts/2021/08/pymkupdate3.png" width="400">
-
-
 ### Algorithmic feeds
 Algorithmic feeds provide initial generic options for the user.  They then quietly track usage and build a UX based on what the algorithm thinks the user will want to see and the order in which they will want to see it.  Frequency and volume is determined by the user’s actions.
 
@@ -164,6 +175,7 @@ Algorithmic feeds provide initial generic options for the user.  They then quiet
 * Bluesky
 <img src="https://blueskyweb.xyz/images/blogposts/skyfeed.png" width="400">
 
+
 ### Natural language chat
 Natural language chat is modeled on conversation. Typically, user writes/speaks commands or questions, which the algorithm responds to. There are many variations: the algorithm can initiate and structure the conversation, questions can go both ways, etc. Depending on the application, the algorithm may be able to personalize responses, bring in additional context, call out to other services, etc.
 
@@ -173,11 +185,6 @@ Natural language chat is modeled on conversation. Typically, user writes/speaks 
 * Intercom
 * <img src="https://blog.intercomassets.com/blog/wp-content/uploads/2023/03/AI-Bot-1-Multiple-Questions-Crop.jpg.optimal.jpg" width="400">
 
-### Irreversible decisions
-In this UX pattern, an algorithm makes a decision silently, with no direct interaction from the user.
-
-* Netflix movie recommendation rows
-<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9DW8V_BEMukiGsqAO8UhNFrpuMOWUjACbRwPXnNOoYuckycb" width="400">
 
 ### Wake words
 Wake words are a way of distinguishing between background noise and communication with a device. The job of the wake word algorithm is to passively "listen" until the user says the wake word, then switch into a more active state for other input.
